@@ -30,7 +30,7 @@ uniforms (grey and black).
 The resposiveness was a difficult task. We would have an idea on how to fix
 an issue, and it would fix one problem, but produce 3-5 more in the process.
 We finally decided to backtrack, and try a different approach, and this time,
-it solved the issu and created minimal, to no issues with any other code, 
+it solved the issue and created minimal, to no issues with any other code, 
 and did not conflict with anything on the site. We can quarantee you that
 you will find minimal or no issues in the responsiveness, up to the
 size of our Mac!
